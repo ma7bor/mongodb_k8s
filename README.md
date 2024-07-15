@@ -1,4 +1,3 @@
-```markdown
 # MongoDB and Mongo Express on Kubernetes
 
 This project demonstrates how to deploy MongoDB and Mongo Express on a Kubernetes cluster. MongoDB is a NoSQL database, and Mongo Express is a web-based administrative interface for MongoDB.
@@ -286,4 +285,3 @@ chmod +x deploy.sh
 ## Conclusion
 
 By following these steps, you will have a fully functional MongoDB server and Mongo Express UI running on Kubernetes. This setup allows you to interact with MongoDB through a user-friendly web interface, making database management easier.
-```
